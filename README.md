@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好啊 👋
 
 <!--
 **MinString/MinString** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+这是一个学生，困于学业压力，但努力尝试各种事物。
+
+不管怎么说，相遇即缘分。祝你有美好的一天🤗️！
